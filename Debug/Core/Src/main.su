@@ -1,0 +1,16 @@
+main.c:69:6:openValve1	8	static
+main.c:73:6:closeValve1	8	static
+main.c:77:6:openValve2	8	static
+main.c:81:6:closeValve2	8	static
+main.c:85:6:openValve3	8	static
+main.c:89:6:closeValve3	8	static
+main.c:93:6:openPump1	8	static
+main.c:97:6:closePump1	8	static
+main.c:101:6:openPump2	8	static
+main.c:105:6:closePump2	8	static
+main.c:109:5:main	8	static
+main.c:156:6:SystemClock_Config	72	static
+main.c:192:13:MX_TIM2_Init	32	static
+main.c:237:13:MX_GPIO_Init	32	static
+main.c:260:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:269:6:Error_Handler	4	static,ignoring_inline_asm
